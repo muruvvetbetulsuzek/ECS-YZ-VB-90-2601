@@ -1,8 +1,9 @@
 # ECS-YZ-VB-90-2601
 ECS 2026-01 Yapay Zeka - Veri Bilimi Kursu (90 saat)
 
+
 Ders 1 - Python Giriş: https://colab.research.google.com/drive/1qieYK-iuRfLQUcHiZfA4i6-SAjSA1-vw?usp=sharing
 
-Ders 2 - Python Temeller, Numpy ve Pandas: https://colab.research.google.com/drive/1KmHoK_afkmOzuG8Eq7zW57xm5gnSpZ4Q?usp=sharing
+Ders 2 - Python Temelleri, Numpy ve Pandas: https://colab.research.google.com/drive/1KmHoK_afkmOzuG8Eq7zW57xm5gnSpZ4Q?usp=sharing
 
 Ders 3 - Veri Bilimi: https://colab.research.google.com/drive/19a6gEoPigCIJn_rrKY8Tf9usDeIrJmxX?usp=sharing
