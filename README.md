@@ -8,3 +8,7 @@ Ders 2 - Python Temelleri, Numpy ve Pandas: https://colab.research.google.com/dr
 Ders 3 - Veri Bilimi: https://colab.research.google.com/drive/19a6gEoPigCIJn_rrKY8Tf9usDeIrJmxX?usp=sharing
 
 Data: https://drive.google.com/file/d/1a95oW9B_AQpROI1M8FoQUwdYCTTUxKY1/view?usp=sharing
+
+Ödev - Vücut Kitle İndeksi Hesaplayıcı: https://colab.research.google.com/drive/1tnt8TpJhy7dAdLF3P3g--mMpWYDtD7a4?usp=sharing
+
+Ödev - Sayı Tahmin Oyunu: https://colab.research.google.com/drive/1ktVQ_-WPwKF6_lV-itLKPlajgfdYMKMR?usp=sharing
