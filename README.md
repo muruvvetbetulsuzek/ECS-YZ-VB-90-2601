@@ -16,3 +16,5 @@ Data: https://drive.google.com/file/d/1a95oW9B_AQpROI1M8FoQUwdYCTTUxKY1/view?usp
 Ödev - Restoran Bahşiş Analiiz: https://colab.research.google.com/drive/1H3xA40Idgeb7E1r2muYaAt4f8itSuowe?usp=sharing
 
 Data: https://drive.google.com/file/d/1UUvkY0G1MSXHENCoTaOx5NGPA5wbw2uQ/view?usp=sharing
+
+Ders 4 - Kaggle Titanic Competition: https://www.kaggle.com/code/betlszek/titanik-yar-mas
