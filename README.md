@@ -18,3 +18,5 @@ Data: https://drive.google.com/file/d/1a95oW9B_AQpROI1M8FoQUwdYCTTUxKY1/view?usp
 Data: https://drive.google.com/file/d/1UUvkY0G1MSXHENCoTaOx5NGPA5wbw2uQ/view?usp=sharing
 
 Ders 4 - Kaggle Titanic Competition: https://www.kaggle.com/code/betlszek/titanik-yar-mas
+
+Ders 5 - Araç Fiyat Tahmini: https://colab.research.google.com/drive/1CRz_I-5Vx8XtvY5T8wdiFVkOaFz9EzGX?usp=sharing
