@@ -20,3 +20,13 @@ Data: https://drive.google.com/file/d/1UUvkY0G1MSXHENCoTaOx5NGPA5wbw2uQ/view?usp
 Ders 4 - Kaggle Titanic Competition: https://www.kaggle.com/code/betlszek/titanik-yar-mas
 
 Ders 5 - Araç Fiyat Tahmini: https://colab.research.google.com/drive/1CRz_I-5Vx8XtvY5T8wdiFVkOaFz9EzGX?usp=sharing
+
+Ders 6 - Slider: https://colab.research.google.com/drive/1P72n8cKyQlsCjPAGf4vfTHY-Bs_xJ3FP?usp=sharing
+
+Ders 7 - Toplu Görsel İndirme: https://colab.research.google.com/drive/1ZvDcSg7NHPP9qnE1t88akg2-LXSMJTsp?usp=sharing
+
+Ders 8 - Online Form (Gradio): https://colab.research.google.com/drive/1NRHd7R9IvJCQZsM-ADtzDffCQ4mDb7nG?usp=sharing
+
+Ders 9 - Pandas ile Veri Çekme: https://colab.research.google.com/drive/1fxhCN4NniSO01-sVgOrfFv-TVNNC_1yG?usp=sharing
+
+Ders 10 - Korona Veri Seti Yarışan Grafikler: https://colab.research.google.com/drive/1rxPU0p-AvclTQZj8WVDlWNjQPDDVowQL?usp=sharing
