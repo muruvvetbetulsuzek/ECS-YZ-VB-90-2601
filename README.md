@@ -30,3 +30,15 @@ Ders 8 - Online Form (Gradio): https://colab.research.google.com/drive/1NRHd7R9I
 Ders 9 - Pandas ile Veri Çekme: https://colab.research.google.com/drive/1fxhCN4NniSO01-sVgOrfFv-TVNNC_1yG?usp=sharing
 
 Ders 10 - Korona Veri Seti Yarışan Grafikler: https://colab.research.google.com/drive/1rxPU0p-AvclTQZj8WVDlWNjQPDDVowQL?usp=sharing
+
+Ders 11 - Google AI Studio: https://ai.studio/apps/983b9d2f-2fb9-46bc-bf8d-8d0cd3671902
+
+Ders 12 - Google Trends: https://colab.research.google.com/drive/1X2KBrPS4Nr5oODjl7U7wGZn_37r7gk-f?usp=sharing
+
+Ders 13 - HF Google Trends: https://colab.research.google.com/drive/1a54xkZUU--Nb81Fv7t2Ae0cSjXEHZ6Qa?usp=sharing
+
+Ders 14 - Finans Verileri (yfinance - Alpha Vantage API): https://colab.research.google.com/drive/10FQogj8SsM2MdxhSxF7pU0TPIkLRm_cD?usp=sharing
+
+Ders 15 - Open Weather API ile Hava Durumu: https://colab.research.google.com/drive/1l4wbG-bAuE6WLt7QnAGAii6MGfwKn4fZ?usp=sharing
+
+Ders 16 - Müşteri Terk (Churn) Analizi: https://colab.research.google.com/drive/1SglAcLcmYsZcoAq5ZpHOmwKdEkkgKuUg?usp=sharing
