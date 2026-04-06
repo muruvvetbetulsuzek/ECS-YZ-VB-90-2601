@@ -42,3 +42,5 @@ Ders 14 - Finans Verileri (yfinance - Alpha Vantage API): https://colab.research
 Ders 15 - Open Weather API ile Hava Durumu: https://colab.research.google.com/drive/1l4wbG-bAuE6WLt7QnAGAii6MGfwKn4fZ?usp=sharing
 
 Ders 16 - Müşteri Terk (Churn) Analizi: https://colab.research.google.com/drive/1SglAcLcmYsZcoAq5ZpHOmwKdEkkgKuUg?usp=sharing
+
+Ders 17 - Zaman Serisi Analizi: https://colab.research.google.com/drive/1BaJNgttaDT85miAVUVhnTC121zO-5w8J?usp=sharing
