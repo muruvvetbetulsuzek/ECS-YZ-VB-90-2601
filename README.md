@@ -44,3 +44,5 @@ Ders 15 - Open Weather API ile Hava Durumu: https://colab.research.google.com/dr
 Ders 16 - Müşteri Terk (Churn) Analizi: https://colab.research.google.com/drive/1SglAcLcmYsZcoAq5ZpHOmwKdEkkgKuUg?usp=sharing
 
 Ders 17 - Zaman Serisi Analizi: https://colab.research.google.com/drive/1BaJNgttaDT85miAVUVhnTC121zO-5w8J?usp=sharing
+
+Ders 19 - Öneri Sistemleri: https://colab.research.google.com/drive/1VqUgl9jpGBLOQXdzprg3RtSUGUYvmliw?usp=sharing
