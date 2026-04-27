@@ -46,3 +46,11 @@ Ders 16 - Müşteri Terk (Churn) Analizi: https://colab.research.google.com/driv
 Ders 17 - Zaman Serisi Analizi: https://colab.research.google.com/drive/1BaJNgttaDT85miAVUVhnTC121zO-5w8J?usp=sharing
 
 Ders 19 - Öneri Sistemleri: https://colab.research.google.com/drive/1VqUgl9jpGBLOQXdzprg3RtSUGUYvmliw?usp=sharing
+
+Ders 20 - OpenCV ile Görüntü İşleme: https://colab.research.google.com/drive/10lHnhbeKpzhI1wf0ZdZOJOv9taaa5b4e?usp=sharing
+
+Ders 21 - OpenCV Webcam Uygulamaları: https://huggingface.co/spaces/mbetulsuzek/foto_filter
+
+Ders 22 -	Deep Learning (MNIST Uygulaması): https://colab.research.google.com/drive/1S8MikR1ITCFKFiDGJ8086epwLgP00ez5?usp=sharing
+
+Ders 23 - Deep Learning KERAS ANN - Linear Regression Karşışatırması: https://colab.research.google.com/drive/16DetuXLPrtnapqNCd7ki4ShSQ76Xi0vP?usp=sharing
