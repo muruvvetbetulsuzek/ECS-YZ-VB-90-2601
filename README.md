@@ -54,3 +54,9 @@ Ders 21 - OpenCV Webcam Uygulamaları: https://huggingface.co/spaces/mbetulsuzek
 Ders 22 -	Deep Learning (MNIST Uygulaması): https://colab.research.google.com/drive/1S8MikR1ITCFKFiDGJ8086epwLgP00ez5?usp=sharing
 
 Ders 23 - Deep Learning KERAS ANN - Linear Regression Karşışatırması: https://colab.research.google.com/drive/16DetuXLPrtnapqNCd7ki4ShSQ76Xi0vP?usp=sharing
+
+Ders 24 - NLP Doğal Dil İşlemenin Temelleri: https://colab.research.google.com/drive/1tOzzs6pf4BcTbZVSCLrLpNeP5Q_fkKab?usp=sharing
+
+Ders 25 - NLP YouTube Metin Sınıflandırıcı ve Deploy: https://colab.research.google.com/drive/1Rvavle4I0kC3yk9nlBg8CB5jYXdVVVsx?usp=sharing
+
+Ders 26 - Kelime Bulutu: https://colab.research.google.com/drive/1CvripNTyk1zlDuq7Pg3MR-7dTtXVMHg2?usp=sharing
