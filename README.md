@@ -45,6 +45,8 @@ Ders 16 - Müşteri Terk (Churn) Analizi: https://colab.research.google.com/driv
 
 Ders 17 - Zaman Serisi Analizi: https://colab.research.google.com/drive/1BaJNgttaDT85miAVUVhnTC121zO-5w8J?usp=sharing
 
+Ders 18 - Adidas Veri Analizi (Vibe Coding): https://colab.research.google.com/drive/1MGFUY1RHvsqpCvO2mttvD2BrAEb0gYWU?usp=sharing
+
 Ders 19 - Öneri Sistemleri: https://colab.research.google.com/drive/1VqUgl9jpGBLOQXdzprg3RtSUGUYvmliw?usp=sharing
 
 Ders 20 - OpenCV ile Görüntü İşleme: https://colab.research.google.com/drive/10lHnhbeKpzhI1wf0ZdZOJOv9taaa5b4e?usp=sharing
